@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Laili99
-- 👀 I’m interested in Deep learning
-- 🌱 I’m currently learning computer vision
+- 👀 I’m interested in machine learning 
+- 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
